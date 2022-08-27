@@ -1,0 +1,7 @@
+## Interface: 90207
+## Title: AdiBags - Keystones
+## Notes: Adds a Mythic+ Keystone section to AdiBags.
+## Author: ZelionGG
+## Version: 1.0
+## Dependencies: AdiBags
+AdiBags_Keystones.lua
