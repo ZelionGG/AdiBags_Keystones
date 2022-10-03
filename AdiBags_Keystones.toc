@@ -2,6 +2,7 @@
 ## Title: AdiBags - Keystones
 ## Notes: Adds a Mythic+ Keystone section to AdiBags.
 ## Author: ZelionGG
-## Version: 1.0
+## Version: 1.0.1
 ## Dependencies: AdiBags
+
 AdiBags_Keystones.lua
