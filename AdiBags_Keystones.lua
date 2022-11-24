@@ -9,7 +9,7 @@ mythicKeystoneFilter.uiName = "|cff7997dbKeystone|r";
 mythicKeystoneFilter.uiDesc = "Put Mythic+ keystones in a dedicated section."
 
 function mythicKeystoneFilter:Filter(slotData)
-	local itemLink = GetContainerItemID(slotData.bag, slotData.slot)
+	local itemLink = C_Container.GetContainerItemID(slotData.bag, slotData.slot)
 	if (itemLink) then
 		local isKeystone = C_Item.IsItemKeystoneByID(itemLink);
 		if (isKeystone) then 
