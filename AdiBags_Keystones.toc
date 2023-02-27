@@ -1,8 +1,8 @@
-## Interface: 100002
+## Interface: 100005
 ## Title: AdiBags - Keystones
 ## Notes: Adds a Mythic+ Keystone section to AdiBags.
 ## Author: ZelionGG
-## Version: 1.1
+## Version: 1.1.1
 ## Dependencies: AdiBags
 ## X-Curse-Project-ID: 665224
 ## X-Wago-ID: XrNkXl6a
